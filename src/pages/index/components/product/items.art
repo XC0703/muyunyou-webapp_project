@@ -1,0 +1,275 @@
+<!-- {{each items}}
+<li class="product-item">
+    <a herf="./details.html?id={{$value.id}}">
+        <p class="product-pic">
+            <img src="{{$value.url}}" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            {{$value.title}}
+        </p>
+        <p class="product-price">
+            {{$value.price}}元起步
+        </p>
+    </a>
+</li>
+{{/each}} -->
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=1">
+        <p class="product-pic">
+            <img src="./images/product_1.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            3799元起步
+        </p>
+    </a>
+</li>
+<li class="product-item">
+    <a herf="./details.html?id=2">
+        <p class="product-pic">
+            <img src="./images/product_2.jpg" alt="" class="product-img"/>
+        </p>
+        <p class="product-name">
+            [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票(可代订签证，可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+            1799元起步
+        </p>
+    </a>
+</li>

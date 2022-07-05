@@ -1,0 +1,6 @@
+<div class="product">
+    <h2 class="product-title">精选折扣</h2>
+    <ul class="product-list" id="product-list">
+        {{include '../../../../components/loading/loading.art'}}
+    </ul>
+</div>

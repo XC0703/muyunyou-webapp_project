@@ -1,0 +1,41 @@
+.index-layout{
+    /* 有滚动条时出现，没有就不要 */
+    overflow-y: auto;
+    height:100%;
+    padding-bottom: 48px;
+}
+
+.header-layout{
+    position: fixed;
+    left:0;
+    top:0;
+    z-index:1000;
+    width:100%;
+    height:54px;
+}
+
+.header-layout .searchbox{
+    width:89.33333333%;
+}
+
+.slider-layout,
+.nav-layout,
+.product-layout{
+    background-color: #fff;
+}
+
+.slider-layout .loading{
+    padding:60px 0;
+}
+
+.product-layout .loading{
+    padding:60px 0;
+}
+.nav-layout .loading{
+    padding:60px 0;
+}
+
+
+.nav-layout{
+    margin-bottom: 10px;
+}
